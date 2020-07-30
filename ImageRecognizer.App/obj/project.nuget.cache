@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0ff3rcjo0qq0BKGQhZ7oEnvT9s7iqQbDnRMGKUGbAM/BVi6ZNbrOoTYpEPMCpCrzXbG1mX6+JsTbwOIO8q0Yg==",
+  "success": true,
+  "projectFilePath": "/Users/knizhnikov/Documents/Dev/Projects/Perceptron/MnistDigitsRecognition/ImageRecognizer.App/ImageRecognizer.App.csproj",
+  "expectedPackageFiles": [
+    "/Users/knizhnikov/.nuget/packages/microsoft.netcore.platforms/5.0.0-preview.4.20251.6/microsoft.netcore.platforms.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "/Users/knizhnikov/.nuget/packages/microsoft.win32.systemevents/5.0.0-preview.4.20251.6/microsoft.win32.systemevents.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "/Users/knizhnikov/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/knizhnikov/.nuget/packages/system.drawing.common/5.0.0-preview.4.20251.6/system.drawing.common.5.0.0-preview.4.20251.6.nupkg.sha512"
+  ],
+  "logs": []
+}

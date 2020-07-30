@@ -1,0 +1,122 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ImageRecognizer.App/1.0.0": {
+        "dependencies": {
+          "ImageRecognizer": "1.0.0",
+          "System.Drawing.Common": "5.0.0-preview.4.20251.6"
+        },
+        "runtime": {
+          "ImageRecognizer.App.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0-preview.4.20251.6": {},
+      "Microsoft.Win32.SystemEvents/5.0.0-preview.4.20251.6": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0-preview.4.20251.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.25106"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.25106"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Drawing.Common/5.0.0-preview.4.20251.6": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0-preview.4.20251.6",
+          "Microsoft.Win32.SystemEvents": "5.0.0-preview.4.20251.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.25106"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.25106"
+          }
+        }
+      },
+      "ImageRecognizer/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "ImageRecognizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageRecognizer.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/5.0.0-preview.4.20251.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BtLrsBax8frRcI4QEdcyTwjK693kx/5lVRM8mlg8z4V+8vDaBs9c3eXeqtnZ3saON+bB3QJhFZ20l/0l2DmeXw==",
+      "path": "microsoft.netcore.platforms/5.0.0-preview.4.20251.6",
+      "hashPath": "microsoft.netcore.platforms.5.0.0-preview.4.20251.6.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/5.0.0-preview.4.20251.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VfvnHKb3ETkjKK/wQ2P/HZ4DxnQOfcD2zPNv9G+bgdSev3cW8S6ZFOi+JpEMjmXu37RlCAPzpEOnTjQLy/Jj+Q==",
+      "path": "microsoft.win32.systemevents/5.0.0-preview.4.20251.6",
+      "hashPath": "microsoft.win32.systemevents.5.0.0-preview.4.20251.6.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Drawing.Common/5.0.0-preview.4.20251.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-99+Tb8G9BI/UMszwcKTzyWbhhH6OaDintCRtojZ4KafIHLpcKhufEbHtAPs5iyFqyjGabsoZXdqeq+shiV3Tqg==",
+      "path": "system.drawing.common/5.0.0-preview.4.20251.6",
+      "hashPath": "system.drawing.common.5.0.0-preview.4.20251.6.nupkg.sha512"
+    },
+    "ImageRecognizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

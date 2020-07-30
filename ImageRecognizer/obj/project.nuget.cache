@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0DPAcrIwpXVe4pAF62PNePAnjLlLSxq6kwOoODZ7AlZze1hNH3FJVtGeSD+57ker/YyuT6uT4fcC3S9yV9qEg==",
+  "success": true,
+  "projectFilePath": "/Users/knizhnikov/Documents/Dev/Projects/Perceptron/MnistDigitsRecognition/ImageRecognizer/ImageRecognizer.csproj",
+  "expectedPackageFiles": [
+    "/Users/knizhnikov/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

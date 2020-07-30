@@ -1,0 +1,9 @@
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/bin/Debug/netcoreapp3.1/ImageRecognizer.deps.json
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/bin/Debug/netcoreapp3.1/ImageRecognizer.dll
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/bin/Debug/netcoreapp3.1/ImageRecognizer.pdb
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.csprojAssemblyReference.cache
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.AssemblyInfoInputs.cache
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.AssemblyInfo.cs
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.dll
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.pdb
+/Users/knizhnikov/Documents/Dev/Projects/Perceptron/Perceptron/ImageRecognizer/obj/Debug/netcoreapp3.1/ImageRecognizer.csproj.CoreCompileInputs.cache
